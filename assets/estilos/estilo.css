@@ -74,6 +74,11 @@ hr{
     border-radius: 7px;
     margin: 10px 0;
 }
+.borde-naranja:hover{
+    color: #fff;
+    border: solid 1px #fff;
+    background-color: #f56a6a;
+}
 p{
     font-family: Roboto;
     color: #7f888f;
@@ -90,8 +95,5 @@ p{
 .icon-erat{
     color: #f56a6a;
     font-size: 2.6em;
-    
-}
-.img-rectangulo-redondeado{
     
 }
